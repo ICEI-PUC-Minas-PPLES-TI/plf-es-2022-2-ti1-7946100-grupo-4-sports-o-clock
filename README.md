@@ -6,7 +6,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 * Luís Miguel Souza Almeida
 * Caio Victor Kodato Teixeira
-* Nome completo do aluno 3
+* Paulo Victor Pimenta Rubinger
 * Nome completo do aluno 4
 
 ## Professores responsáveis
