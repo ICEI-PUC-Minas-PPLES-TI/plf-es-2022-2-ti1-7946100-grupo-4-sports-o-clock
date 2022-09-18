@@ -1,21 +1,22 @@
 # Informações do Projeto
 `TÍTULO DO PROJETO`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
+PROGRAMAÇÃO DE ESPORTES
 
 `CURSO` 
 
-......  COLOQUE AQUI O SEU TEXTO ......
+ENGENHARIA DE SOFTWARE
 
 ## Participantes
 
 ......  COLOQUE AQUI O SEU TEXTO ......
 
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
-> Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+- Caio Victor Kodato Teixeira
+- Hudson Martins Nunes
+- Luís Miguel Souza Almeida
+- Marcelo Emboaba de Matos
+- Paulo Victor Pimenta Rubinger
+- Rafael Ferreira Fernandes
 
 # Estrutura do Documento
 
