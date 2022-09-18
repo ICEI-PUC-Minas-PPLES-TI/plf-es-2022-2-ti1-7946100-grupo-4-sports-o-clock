@@ -57,7 +57,9 @@ ENGENHARIA DE SOFTWARE
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  As dificuldades em encontrar informações acerca de horários de programação de esportes, 
+que afeta na maioria dos casos pessoas de maior idade que não possuem tanto 
+conhecimento com tecnologias ......
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -77,7 +79,7 @@ ENGENHARIA DE SOFTWARE
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Desenvolver uma aplicação para informar onde assistir programações esportivas desejadas pelos clientes.   ......
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
