@@ -57,9 +57,7 @@ ENGENHARIA DE SOFTWARE
 
 ## Problema
 
-......  As dificuldades em encontrar informações acerca de horários de programação de esportes, 
-que afeta na maioria dos casos pessoas de maior idade que não possuem tanto 
-conhecimento com tecnologias ......
+......  Diante do cenário atual, os esportes passaram a ser televisionados por diversas plataformas de streamings, e quem não tem conhecimento das mesmas, adquirem dificuldades em encontrar informações acerca de horários e onde você consegue ter acesso a essa programação, o que ocasiona a perda de vários esportes que os clientes queiram ver, sendo impossibilitado de praticar o seu lazer simplesmente por uma falta de informação.
 
 > Nesse momento você deve apresentar o problema que a sua aplicação deve
 > resolver. No entanto, não é a hora de comentar sobre a aplicação.
@@ -79,7 +77,10 @@ conhecimento com tecnologias ......
 
 ## Objetivos
 
-......  Desenvolver uma aplicação para informar onde assistir programações esportivas desejadas pelos clientes.   ......
+......  Desenvolver uma aplicação web para ajudar apreciadores de esportes em geral a conseguirem assistir seus desejos
+-> Fornecer informações a pessoas com clareza, direto ao ponto.
+-> Incentivar as pessoas a consumir programas esportivos, por ser um ótimo passsa tempo e um estímulo a prática de esportes.
+.   ......
 
 > Aqui você deve descrever os objetivos do trabalho indicando que o
 > objetivo geral é desenvolver um software para solucionar o problema
@@ -92,7 +93,7 @@ conhecimento com tecnologias ......
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Diversas pessoas ......
 
 > Descreva a importância ou a motivação para trabalhar com esta aplicação
 > que você escolheu. Indique as razões pelas quais você escolheu seus
@@ -108,7 +109,7 @@ conhecimento com tecnologias ......
 
 ## Público-Alvo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Pessoas que não possuem facilidade em encontrar informações acerca dos locais que são transmitidos os esportes desejados hoje em dia, com atenção especial também aos idosos, que não conseguem ter muita facilidade com pesquisas na internet ......
 
 > Descreva quem serão as pessoas que usarão a sua aplicação indicando os
 > diferentes perfis. O objetivo aqui não é definir quem serão os
@@ -127,7 +128,7 @@ conhecimento com tecnologias ......
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+......  Nessa seção, será apresentada uma visão um pouco mais aprofundada do projeto, atráves da elaboração das Personas, Mapa de empatia, História de Usuários, Requisitos e as Restrições do projeto ......
 
 > Apresente uma visão geral do que será abordado nesta parte do
 > documento, enumerando as técnicas e/ou ferramentas utilizadas para
