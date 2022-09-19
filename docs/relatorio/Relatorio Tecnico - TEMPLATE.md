@@ -78,6 +78,8 @@ ENGENHARIA DE SOFTWARE
 ## Objetivos
 
 ......  Desenvolver uma aplicação web para ajudar apreciadores de esportes em geral a conseguirem assistir seus desejos
+
+## Objetivos Específicos
 -> Fornecer informações a pessoas com clareza, direto ao ponto.
 -> Incentivar as pessoas a consumir programas esportivos, por ser um ótimo passsa tempo e um estímulo a prática de esportes.
 .   ......
