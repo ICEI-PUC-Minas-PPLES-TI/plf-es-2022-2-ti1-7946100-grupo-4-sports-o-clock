@@ -139,7 +139,8 @@ ENGENHARIA DE SOFTWARE
 
 ## Personas e Mapas de Empatia
 
-......  ![Persona 1- WILSON]([[images/persona1.jpg](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti1-plf-es-2022-2-ti1-grupo-4/blob/master/docs/relatorio/images/Persona1.jpg)] ......
+......  ![Persona1](https://user-images.githubusercontent.com/113461327/191337426-21ccf8c4-8f4e-4174-9b69-30a176a0ed7f.jpg)
+......
 
 
 > Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que 
