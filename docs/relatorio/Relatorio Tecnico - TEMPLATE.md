@@ -193,12 +193,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Emitir um relatório de locais de transmissão de jogos | BAIXA |
-|RF-002| Permitir que o usuário faça buscas de jogos que deseja assistir |  ALTA |
-|RF-003| Contre informação de variados esportes |  MÉDIA |
-|RF-004| Apresentar nome e logo dos times que irão disputar o jogo |  ALTA |
-|RF-005| Informar o local onde será transmitido o jogo |  ALTA |
-|RF-006| Informar do horário de transmissão dos jogos |  ALTA |
+|RF-001| Permitir que o usuário faça buscas de jogos que deseja assistir |  ALTA |
+|RF-002| Apresentar nome e logo dos times que irão disputar o jogo |  ALTA |
+|RF-003| Informar o local onde será transmitido o jogo |  ALTA |
+|RF-004| Informar do horário de transmissão dos jogos |  ALTA |
+|RF-005| Conter informação de variados esportes |  MÉDIA |
+|RF-006| Emitir um relatório de locais de transmissão de jogos | BAIXA |
 |RF-007| Informar sobre o custo da transmissão |  BAIXA |
 
 
@@ -207,9 +207,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| Aplicação deve ser feita em formato WEB |  ALTA |
-|RNF-002| O sistema deve ser responsivo para rodar em um dispositivos móveis | MÉDIA | 
-|RNF-003| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-|RNF-004| Deve conter design sugestivo e direto |  ALTA |
+|RNF-002| Deve conter design sugestivo e direto |  ALTA |
+|RNF-003| O sistema deve ser responsivo para rodar em um dispositivos móveis | MÉDIA | 
+|RNF-004| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 |RNF-005| Mostrar informação ao usuário com poucas interações com o sistema |  BAIXA |
 
 
