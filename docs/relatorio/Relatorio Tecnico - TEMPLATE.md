@@ -193,16 +193,25 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Emitir um relatório de locais de transmissão de jogos | BAIXA |
+|RF-002| Permitir que o usuário faça buscas de jogos que deseja assistir |  ALTA |
+|RF-003| Contre informação de variados esportes |  MÉDIA |
+|RF-004| Apresentar nome e logo dos times que irão disputar o jogo |  ALTA |
+|RF-005| Informar o local onde será transmitido o jogo |  ALTA |
+|RF-006| Informar do horário de transmissão dos jogos |  ALTA |
+|RF-007| Informar sobre o custo da transmissão |  BAIXA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Aplicação deve ser feita em formato WEB |  ALTA |
+|RNF-002| O sistema deve ser responsivo para rodar em um dispositivos móveis | MÉDIA | 
+|RNF-003| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-004| Deve conter design sugestivo e direto |  ALTA |
+|RNF-005| Mostrar informação ao usuário com poucas interações com o sistema |  BAIXA |
+
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
