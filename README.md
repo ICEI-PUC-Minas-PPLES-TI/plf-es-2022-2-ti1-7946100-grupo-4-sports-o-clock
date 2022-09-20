@@ -8,7 +8,7 @@ O projeto visa facilitar a obtenção de informações sobre a programação esp
 * Caio Victor Kodato Teixeira
 * Paulo Victor Pimenta Rubinger
 * Hudson Martins Nunes
-* Nome completo do aluno 4
+* Marcelo Emboaba de Matos
 
 ## Professores responsáveis
 
