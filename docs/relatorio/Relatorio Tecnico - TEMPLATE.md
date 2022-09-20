@@ -140,6 +140,8 @@ ENGENHARIA DE SOFTWARE
 ## Personas e Mapas de Empatia
 
 ......  ![Persona1](https://user-images.githubusercontent.com/113461327/191337426-21ccf8c4-8f4e-4174-9b69-30a176a0ed7f.jpg)
+![mapa empatia1](https://user-images.githubusercontent.com/113461327/191337687-b3e99c9f-cb18-4c40-8847-2bd0cc9812d2.jpg)
+
 ......
 
 
