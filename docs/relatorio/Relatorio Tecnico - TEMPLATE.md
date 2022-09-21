@@ -59,21 +59,6 @@ ENGENHARIA DE SOFTWARE
 
 ......  Diante do cenário atual, os esportes passaram a ser televisionados por diversas plataformas de streamings, e quem não tem conhecimento das mesmas, adquirem dificuldades em encontrar informações acerca de horários e onde você consegue ter acesso a essa programação, o que ocasiona a perda de vários esportes que os clientes queiram ver, sendo impossibilitado de praticar o seu lazer simplesmente por uma falta de informação.
 
-> Nesse momento você deve apresentar o problema que a sua aplicação deve
-> resolver. No entanto, não é a hora de comentar sobre a aplicação.
-> Descreva também o contexto em que essa aplicação será usada, se
-> houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de
-> fato existir, pois ainda não é a hora de apresentar requisitos
-> detalhados ou projetos.
->
-> Nesse momento, o grupo pode optar por fazer uso
-> de ferramentas como Design Thinking, que permite um olhar de ponta a
-> ponta para o problema.
->
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
 
@@ -81,18 +66,7 @@ ENGENHARIA DE SOFTWARE
 
 ## Objetivos Específicos
 -> Fornecer informações a pessoas com clareza, direto ao ponto.
-
 -> Incentivar as pessoas a consumir programas esportivos, por ser um ótimo passsa tempo e um estímulo a prática de esportes.
-.   ......
-
-> Aqui você deve descrever os objetivos do trabalho indicando que o
-> objetivo geral é desenvolver um software para solucionar o problema
-> apresentado acima. Apresente também alguns (pelo menos 2) objetivos
-> específicos dependendo de onde você vai querer concentrar a sua
-> prática investigativa, ou como você vai aprofundar no seu trabalho.
-> 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
@@ -102,30 +76,11 @@ ENGENHARIA DE SOFTWARE
 
 ## Público-Alvo
 
-......  Pessoas que não possuem facilidade em encontrar informações acerca dos locais que são transmitidos os esportes desejados hoje em dia, com atenção especial também aos idosos, que não conseguem ter muita facilidade com pesquisas na internet ......
-
-> Descreva quem serão as pessoas que usarão a sua aplicação indicando os
-> diferentes perfis. O objetivo aqui não é definir quem serão os
-> clientes ou quais serão os papéis dos usuários na aplicação. A ideia
-> é, dentro do possível, conhecer um pouco mais sobre o perfil dos
-> usuários: conhecimentos prévios, relação com a tecnologia, relações
-> hierárquicas, etc.
->
-> Adicione informações sobre o público-alvo por meio de uma descrição
-> textual, ou diagramas de personas, mapa de stakeholders, ou como o
-> grupo achar mais conveniente.
-> 
-> **Links Úteis**:
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Pessoas que não possuem facilidade em encontrar informações acerca dos locais que são transmitidos os esportes desejados hoje em dia, com atenção especial também aos idosos, que não conseguem ter muita facilidade com pesquisas na internet.
  
 # Especificações do Projeto
 
-......  Nessa seção, será apresentada uma visão um pouco mais aprofundada do projeto, atráves da elaboração das Personas, Mapa de empatia, História de Usuários, Requisitos e as Restrições do projeto ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+ Nessa seção, será apresentada uma visão um pouco mais aprofundada do projeto, atráves da elaboração das Personas, Mapa de empatia, História de Usuários, Requisitos e as Restrições do projeto 
 
 ## Personas e Mapas de Empatia
 # PERSONA E MAPA DE EMPATIA 1
@@ -139,8 +94,6 @@ ENGENHARIA DE SOFTWARE
 # PERSONA E MAPA DE EMPATIA 3
 ![Persona3](https://user-images.githubusercontent.com/113461327/191338773-0c6d06f3-687c-490b-b6d2-c3702a90d2ca.jpg)
 ![mapaempatia3](https://user-images.githubusercontent.com/113461327/191338803-a2a06bc4-cabb-4825-bc5b-67aee1341bb4.jpg)
-
-......
 
 
 ## Histórias de Usuários
@@ -191,27 +144,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-005| Mostrar informação ao usuário com poucas interações com o sistema |  BAIXA |
 
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
 
 ## Restrições
 
@@ -221,6 +153,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
+|03| A aplicação deve ser utilizada de modo gratuito       |
 
 
 > Enumere as restrições à sua solução. Lembre-se de que as restrições
