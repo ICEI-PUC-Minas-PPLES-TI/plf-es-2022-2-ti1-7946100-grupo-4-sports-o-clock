@@ -211,6 +211,12 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > 
 > ![Exemplo de Wireframe](images/wireframe-example.png)
 
+## Protótipos do sistema
+
+![Home](![image](https://user-images.githubusercontent.com/113461327/191586750-1a65c375-3ebe-4d36-ad68-8f57b7a536a3.png)
+![Tela de busca por campeonato](![Tela de busca por campeonato](https://user-images.githubusercontent.com/113461327/191587025-7f39e53f-33ba-411e-99b6-d3915ca68ed5.png)
+![Tela de busca por esporte](![Tela de busca por esporte](https://user-images.githubusercontent.com/113461327/191587485-30756388-2a8e-466f-84fa-ab93e5f06063.png)
+
 
 # Metodologia
 
