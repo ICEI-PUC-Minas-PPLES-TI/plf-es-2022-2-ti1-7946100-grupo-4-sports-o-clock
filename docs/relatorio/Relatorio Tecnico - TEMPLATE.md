@@ -215,9 +215,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 # Home
 ![Home](https://user-images.githubusercontent.com/113461327/191597530-a85efa70-74b0-44c5-932a-04c8c993cf8c.png)
 # Tela de busca por campeonatos
-[Tela de busca por campeonato](![Tela de busca por campeonato](https://user-images.githubusercontent.com/113461327/191587025-7f39e53f-33ba-411e-99b6-d3915ca68ed5.png)
+![Tela de busca por campeonato](https://user-images.githubusercontent.com/113461327/191587025-7f39e53f-33ba-411e-99b6-d3915ca68ed5.png)
 # Tela de busca por esportes
-[Tela de busca por esporte](![Tela de busca por esporte](https://user-images.githubusercontent.com/113461327/191587485-30756388-2a8e-466f-84fa-ab93e5f06063.png)
+![Tela de busca por esporte](https://user-images.githubusercontent.com/113461327/191587485-30756388-2a8e-466f-84fa-ab93e5f06063.png)
 
 
 # Metodologia
