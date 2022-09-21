@@ -242,7 +242,15 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+|Integrante | Função       |
+|-----------|--------------|
+|Caio       | Desenvolvedor|
+|Hudson     | Desenvolvedor|       
+|Luís       | Desenvolvedor|
+|Marcelo    | Desenvolvedor|
+|Rafael     | Desenvolvedor|
+|Paulo      | Desenvolvedor|
+|Professores| Project owner|
 
 > Apresente a divisão de papéis e tarefas entre os membros do grupo.
 >
