@@ -96,19 +96,9 @@ ENGENHARIA DE SOFTWARE
 
 ## Justificativa
 
-......  Diversas pessoas ......
-
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+> Esse projeto foi pensado na necessidade que existe nos dias atuais de fornecer informações mais claras e objetivas sobre programas esportivos seja ele qual for.
+> Nosso objetivo é entregar ao usuário informações relevantes acerca das programações e locais de exibição com facilidade de acesso.
+> Essa iniciativa foi tomada pensado principalmente no público de maior idade, que na maioria dos casos, não possuem facilidade para procurar em diversos sites ou apps, informações sobre as programações de jogos de seu esporte preferido.
 
 ## Público-Alvo
 
