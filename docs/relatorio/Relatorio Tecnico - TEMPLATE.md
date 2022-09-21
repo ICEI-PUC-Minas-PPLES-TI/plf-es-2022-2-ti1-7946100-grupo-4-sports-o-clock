@@ -9,8 +9,6 @@ ENGENHARIA DE SOFTWARE
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
 - Caio Victor Kodato Teixeira
 - Hudson Martins Nunes
 - Luís Miguel Souza Almeida
@@ -57,12 +55,12 @@ ENGENHARIA DE SOFTWARE
 
 ## Problema
 
-......  Diante do cenário atual, os esportes passaram a ser televisionados por diversas plataformas de streamings, e quem não tem conhecimento das mesmas, adquirem dificuldades em encontrar informações acerca de horários e onde você consegue ter acesso a essa programação, o que ocasiona a perda de vários esportes que os clientes queiram ver, sendo impossibilitado de praticar o seu lazer simplesmente por uma falta de informação.
+Diante do cenário atual, os esportes passaram a ser televisionados por diversas plataformas de streamings, e quem não tem conhecimento das mesmas, adquirem dificuldades em encontrar informações acerca de horários e onde você consegue ter acesso a essa programação, o que ocasiona a perda de vários esportes que os clientes queiram ver, sendo impossibilitado de praticar o seu lazer simplesmente por uma falta de informação.
 
 
 ## Objetivos
 
-......  Desenvolver uma aplicação web para ajudar apreciadores de esportes em geral a conseguirem assistir seus desejos
+> • Desenvolver uma aplicação web para ajudar apreciadores de esportes em geral a conseguirem assistir seus desejos
 
 ## Objetivos Específicos
 -> Fornecer informações a pessoas com clareza, direto ao ponto.
@@ -80,7 +78,7 @@ Pessoas que não possuem facilidade em encontrar informações acerca dos locais
  
 # Especificações do Projeto
 
- Nessa seção, será apresentada uma visão um pouco mais aprofundada do projeto, atráves da elaboração das Personas, Mapa de empatia, História de Usuários, Requisitos e as Restrições do projeto 
+Nessa seção, será apresentada uma visão um pouco mais aprofundada do projeto, atráves da elaboração das Personas, Mapa de empatia, História de Usuários, Requisitos e as Restrições do projeto 
 
 ## Personas e Mapas de Empatia
 # PERSONA E MAPA DE EMPATIA 1
@@ -142,7 +140,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-003| O sistema deve ser responsivo para rodar em um dispositivos móveis | MÉDIA | 
 |RNF-004| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 |RNF-005| Mostrar informação ao usuário com poucas interações com o sistema |  BAIXA |
-
+|RNF-006| Mostrar informação ao usuário com poucas interações com o sistema |  BAIXA |
 
 
 ## Restrições
