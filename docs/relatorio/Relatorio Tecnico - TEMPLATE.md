@@ -213,7 +213,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Protótipos do sistema
 # Home
-[Home](https://user-images.githubusercontent.com/113461327/191597176-d32e7d02-b76e-4c18-9b68-fb9b8730feaa.png)
+![Home](https://user-images.githubusercontent.com/113461327/191597530-a85efa70-74b0-44c5-932a-04c8c993cf8c.png)
 # Tela de busca por campeonatos
 [Tela de busca por campeonato](![Tela de busca por campeonato](https://user-images.githubusercontent.com/113461327/191587025-7f39e53f-33ba-411e-99b6-d3915ca68ed5.png)
 # Tela de busca por esportes
