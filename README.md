@@ -12,8 +12,9 @@ O projeto visa facilitar a obtenção de informações sobre a programação esp
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Felipe Augusto Lima Reis
+* Gabriel Barbosa da Fonseca
+* Simone Alves Nogueira
 
 ## Instruções de utilização
 
