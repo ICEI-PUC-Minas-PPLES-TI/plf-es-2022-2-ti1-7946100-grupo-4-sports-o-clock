@@ -64,6 +64,7 @@ Diante do cenário atual, os esportes passaram a ser televisionados por diversas
 
 ## Objetivos Específicos
 -> Fornecer informações a pessoas com clareza, direto ao ponto.
+
 -> Incentivar as pessoas a consumir programas esportivos, por ser um ótimo passsa tempo e um estímulo a prática de esportes.
 
 ## Justificativa
@@ -98,10 +99,13 @@ Nessa seção, será apresentada uma visão um pouco mais aprofundada do projeto
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`         |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|--------------------------------------------|----------------------------------------|
+|Usuário do sistema  |Informações sobre jogos de futebol          | Não perder tempo procurando            |
+|Usuário do sistema  |Informações sobre jogos de vôlei            | Encontra-los com mais facilidade       |
+|Usuário do sistema  |Informações sobre jogos de basquete         | 
+|Administrador       |Espaço para feedback dos usuários           |Se informar sobre as opiniões dos usuários |
+|Administrador       |Espaço com os destaques do esporte na semana|Tornar o site menos complexo            |
 
 > Apresente aqui as histórias de usuário que são relevantes para o
 > projeto de sua solução. As Histórias de Usuário consistem em uma
@@ -242,7 +246,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |Integrante | Função       |
 |-----------|--------------|
-|Caio       | Desenvolvedor|
+|Caio       | Scrum Master/ Desenvolvedor|
 |Hudson     | Desenvolvedor|       
 |Luís       | Desenvolvedor|
 |Marcelo    | Desenvolvedor|
