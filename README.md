@@ -4,11 +4,11 @@ O projeto visa facilitar a obtenção de informações sobre a programação esp
 
 ## Alunos integrantes da equipe
 
-* Luís Miguel Souza Almeida
 * Caio Victor Kodato Teixeira
-* Paulo Victor Pimenta Rubinger
 * Hudson Martins Nunes
+* Luís Miguel Souza
 * Marcelo Emboaba de Matos
+* Paulo Victor Pimenta Rubinger
 
 ## Professores responsáveis
 
