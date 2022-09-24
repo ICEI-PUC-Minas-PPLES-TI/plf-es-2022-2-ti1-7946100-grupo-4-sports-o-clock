@@ -130,9 +130,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| Apresentar nome e logo dos times que irão disputar o jogo |  ALTA |
 |RF-003| Informar o local onde será transmitido o jogo |  ALTA |
 |RF-004| Informar do horário de transmissão dos jogos |  ALTA |
-|RF-005| Conter informação de variados esportes |  MÉDIA |
-|RF-006| Emitir um relatório de locais de transmissão de jogos | BAIXA |
-|RF-007| Informar sobre o custo da transmissão |  BAIXA |
+|RF-005| Informar placar de partidas que já passaram |  MÉDIA |
+|RF-006| Conter informação de variados esportes |  MÉDIA |
+|RF-007| Informar em qual estádio o jogo irá ocorrer |  MÉDIA |
+|RF-008| Emitir um relatório de locais de transmissão de jogos | BAIXA |
+|RF-009| Informar link de sites parceiros onde o usuário pode comprar ingresso |  BAIXA |
+|RF-010| Informar sobre o custo da transmissão |  BAIXA |
 
 
 ### Requisitos não Funcionais
