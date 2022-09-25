@@ -98,7 +98,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|--------------------------------------------|----------------------------------------|
 |Usuário do sistema  |Informações sobre jogos de futebol          | Não perder tempo procurando            |
 |Usuário do sistema  |Informações sobre jogos de vôlei            | Encontra-los com mais facilidade       |
-|Usuário do sistema  |Informações sobre jogos de basquete         | 
+|Usuário do sistema  |Informações sobre jogos de basquete         | Encontra-los com mais facilidade
 |Administrador       |Espaço para feedback dos usuários           |Se informar sobre as opiniões dos usuários |
 |Administrador       |Espaço com os destaques do esporte na semana|Tornar o site menos complexo            |
 
