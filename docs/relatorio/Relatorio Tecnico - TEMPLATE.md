@@ -133,7 +133,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-003| O sistema deve ser responsivo para rodar em um dispositivos móveis | MÉDIA | 
 |RNF-004| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 |RNF-005| Mostrar informação ao usuário com poucas interações com o sistema |  BAIXA |
-|RNF-006| Mostrar informação ao usuário com poucas interações com o sistema |  BAIXA |
 
 
 ## Restrições
