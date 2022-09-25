@@ -158,11 +158,11 @@ A interface do nosso projeto foi criada de forma bem objetiva, contando que o us
 # Wireframes
 
 ## Home
-![Home](https://user-images.githubusercontent.com/113461327/191597530-a85efa70-74b0-44c5-932a-04c8c993cf8c.png)
+![home](https://user-images.githubusercontent.com/113461327/192169380-9442c5cf-7006-414e-8a99-d1de1e1acdd4.jpeg)
 ## Tela de busca por campeonatos
-![Tela de busca por campeonato](https://user-images.githubusercontent.com/113461327/191587025-7f39e53f-33ba-411e-99b6-d3915ca68ed5.png)
+![busca por campeonato](https://user-images.githubusercontent.com/113461327/192169387-1cd16089-a1aa-4091-931a-1f1b2e2a5169.jpeg)
 ## Tela de busca por esportes
-![Tela de busca por esporte](https://user-images.githubusercontent.com/113461327/191587485-30756388-2a8e-466f-84fa-ab93e5f06063.png)
+![busca por esporte](https://user-images.githubusercontent.com/113461327/192169388-f941931a-69dd-450d-9b49-4a2a5a6c36bb.jpeg)
 
 
 # Metodologia
