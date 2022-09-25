@@ -154,13 +154,13 @@ A interface do nosso projeto foi criada de forma bem objetiva, contando que o us
 ![userflow](https://user-images.githubusercontent.com/113461327/192158358-77e29617-a2b1-4360-926d-eba2ac7abe6a.jpg)
 
 
-## Wireframes
+# Wireframes
 
-# Home
+## Home
 ![Home](https://user-images.githubusercontent.com/113461327/191597530-a85efa70-74b0-44c5-932a-04c8c993cf8c.png)
-# Tela de busca por campeonatos
+## Tela de busca por campeonatos
 ![Tela de busca por campeonato](https://user-images.githubusercontent.com/113461327/191587025-7f39e53f-33ba-411e-99b6-d3915ca68ed5.png)
-# Tela de busca por esportes
+## Tela de busca por esportes
 ![Tela de busca por esporte](https://user-images.githubusercontent.com/113461327/191587485-30756388-2a8e-466f-84fa-ab93e5f06063.png)
 
 
