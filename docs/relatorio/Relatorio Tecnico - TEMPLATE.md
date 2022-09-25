@@ -1,4 +1,3 @@
-# Informações do Projeto  
 # Sports o'clock
 
 ## PROGRAMAÇÃO DE ESPORTES- ENGENHARIA DE SOFTWARE
