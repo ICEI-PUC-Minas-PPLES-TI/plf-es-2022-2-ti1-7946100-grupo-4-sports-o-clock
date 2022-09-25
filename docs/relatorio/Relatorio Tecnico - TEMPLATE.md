@@ -158,6 +158,7 @@ A interface do nosso projeto foi criada de forma bem objetiva, contando que o us
 # Wireframes
 
 ## Home
+https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti1-plf-es-2022-2-ti1-grupo-4/blob/master/docs/relatorio/images/Page%201-1.png
 ![Home](https://user-images.githubusercontent.com/113461327/191597530-a85efa70-74b0-44c5-932a-04c8c993cf8c.png)
 ## Tela de busca por campeonatos
 ![Tela de busca por campeonato](https://user-images.githubusercontent.com/113461327/191587025-7f39e53f-33ba-411e-99b6-d3915ca68ed5.png)
