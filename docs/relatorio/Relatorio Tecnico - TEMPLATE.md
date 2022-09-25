@@ -118,9 +118,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-005| Informar sobre o custo da transmissão |  ALTA |
 |RF-006| Conter informação de jogos de futebol, basquete e vôlei |  MÉDIA |
 |RF-007| Informar link de sites onde o usuário pode assinar as plataformas de transmissão |  MÉDIA |
-|RF-008| Informar em qual estádio o jogo irá ocorrer |  MÉDIA |
-|RF-009| Emitir um relatório de locais de transmissão de jogos |  BAIXA |
-|RF-010| Informar placar de partidas que já passaram |  BAIXA |
+|RF-008| Conter um botão para cada um dos três esportes que levarão o usuário à página com as informações  |  MÉDIA |
+|RF-009| Informar em qual estádio o jogo irá ocorrer |  BAIXA |
+|RF-010| Conter um botão em cada página para voltar à página principal |  BAIXA |
 
 
 
