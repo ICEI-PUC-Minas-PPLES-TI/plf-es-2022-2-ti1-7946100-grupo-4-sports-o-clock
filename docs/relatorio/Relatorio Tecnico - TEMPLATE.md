@@ -167,23 +167,8 @@ A interface do nosso projeto foi criada de forma bem objetiva, contando que o us
 
 # Metodologia
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Nesta parte do documento, você deve apresentar a metodologia 
-> adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, 
-> a divisão de papéis e tarefas, as ferramentas empregadas e como foi realizada a
-> gestão de configuração do projeto via GitHub.
->
-> Coloque detalhes sobre o processo de Design Thinking e a implementação do Framework Scrum seguido
-> pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar
-> o andamento do projeto, a execução das tarefas e o status de desenvolvimento
-> da solução.
-> 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+A metodologia adotada foi a metodologia Scrum com tarefas divididas entre os membros, adotando reuniões frequentes para verificar
+o andamento da sprint, avaliando e se necessário readaptando o processo de execução.
 
 ## Divisão de Papéis
 
@@ -200,14 +185,13 @@ A interface do nosso projeto foi criada de forma bem objetiva, contando que o us
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Editor de código  | VS Code |  https://miro.com/XXXXXXX | 
-|Ferramentas de comunicação | Whatsapp,Microsoft teams | https://github.com/XXXXXXX | 
-|Plataforma de hospedagem | Github |  https://XXXXXXX.herokuapp.com | 
-|Ferramentas de diagramação |Figma | https://figma.com/XXXXXXX | 
+|Editor de código  |  |  | 
+|Ferramentas de comunicação | Whatsapp,Microsoft teams | [Microsoft Teams](https://teams.microsoft.com/_#/school/conversations/TIAW%20-%20EQUIPE%204%20-%20Programa%C3%A7%C3%A3o%20Esportes?threadId=19:2a8e652b3f8c49139834ff41fd9e4800@thread.tacv2&ctx=channel) | 
+|Plataforma de hospedagem | Github | [Github](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti1-plf-es-2022-2-ti1-grupo-4) | 
+|Ferramentas de diagramação | Figma | [Figma](https://www.figma.com/file/IlW3YHwLYTDWwXtQkLYJkx/Template-do-Site---Grupo-4?node-id=0%3A1) | 
 
 
 ## Controle de Versão
