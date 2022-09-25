@@ -74,7 +74,7 @@ Pessoas que não possuem facilidade em encontrar informações acerca dos locais
  
 # Especificações do Projeto
 
-Nessa seção, será apresentada uma visão um pouco mais aprofundada do projeto, atráves da elaboração das Personas, Mapa de empatia, História de Usuários, Requisitos e as Restrições do projeto 
+Nessa seção, será apresentada uma visão um pouco mais aprofundada do projeto, atráves da elaboração das Personas, Mapa de Empatia, História de Usuários, Requisitos e as Restrições do Projeto 
 
 # Personas e Mapas de Empatia
 ## PERSONA E MAPA DE EMPATIA 1
