@@ -171,12 +171,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
-
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
+A interface do nosso projeto foi criada de forma bem objetiva, contando que o usuário não necessite de muito conhecimento no meio tecnológico para utiliza-lo, sendo assim, com poucos passos ele encontraria o que deseja. Por meio dela, buscamos atender todos os requisitos desejados e pensamos bastante nas histórias de usuários contadas pelos nossos clientes.
 
 ## User Flow
 
