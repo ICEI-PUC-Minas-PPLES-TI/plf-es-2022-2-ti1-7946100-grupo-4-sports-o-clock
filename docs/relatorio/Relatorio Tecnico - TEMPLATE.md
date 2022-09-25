@@ -192,7 +192,7 @@ o andamento da sprint, avaliando e se necessário readaptando o processo de exec
 
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
-|Editor de código  |  |  | 
+|Editor de código  | VS CODE |  | 
 |Ferramentas de comunicação | Whatsapp,Microsoft teams | [Microsoft Teams](https://teams.microsoft.com/_#/school/conversations/TIAW%20-%20EQUIPE%204%20-%20Programa%C3%A7%C3%A3o%20Esportes?threadId=19:2a8e652b3f8c49139834ff41fd9e4800@thread.tacv2&ctx=channel) | 
 |Plataforma de hospedagem | Github | [Github](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti1-plf-es-2022-2-ti1-grupo-4) | 
 |Ferramentas de diagramação | Figma | [Figma](https://www.figma.com/file/IlW3YHwLYTDWwXtQkLYJkx/Template-do-Site---Grupo-4?node-id=0%3A1) | 
