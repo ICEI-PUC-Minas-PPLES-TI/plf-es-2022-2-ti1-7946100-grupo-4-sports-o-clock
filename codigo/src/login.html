@@ -15,9 +15,12 @@
     <div class="container-main">
         <div class="content-main">
             <h1>LOGIN</h1>
-            <p>Usuário</p>
+            <div class="errorlogin">
+                <h3>* Usuário ou senha inválidos</h3>
+            </div>
+            <label for="user" id="usuario">Usuário</label>
             <input type="text" name="user" id="username">
-            <p>Senha</p>
+            <label for="pass" id="usuario">Senha</label>
             <input type="password" name="pass" id="password">
             <div class="response-login">
                 <button type="submit" onclick="login()">ENTRAR</button>

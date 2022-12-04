@@ -15,12 +15,18 @@
     <div class="container-main">
         <div class="content-main">
             <h1>CADASTRO</h1>
-            <p>Nome de usuário</p>
-            <input type="text" name="user" id="username">
-            <p>Crie uma senha</p>
-            <input type="password" name="pass" id="password">
-            <p>Confirme sua senha</p>
-            <input type="password" name="reppass" id="rep_password">
+            <label id="nome">Crie um nome de usuário</label>
+            <input type="text" name="user" id="username" oninput="UserValidate()">
+            <span>* O usuário deve conter no mínimo 3 caracteres.</span>
+            <label id="senha">Crie uma senha</label>
+            <input type="password" name="pass" id="password" oninput="PasswordValidate()">
+            <span>* A senha deve conter no mínimo 8 caracteres.</span>
+            <label id="rpsenha">Repita sua senha</label>
+            <input type="password" name="reppass" id="rep_password" oninput="RPasswordValidate()">
+            <span>* As senhas não coincidem.</span>
+            <label id="favorito">Informe seu esporte preferido</label>
+            <input type="text" name="favorite" id="favorite" oninput="FavoriteValidate()">
+            <span>* Deve ser maior que 1 caractere.</span>
             <div class="response-login">
                 <button type="submit" onclick="register()">CADASTRAR</button>
             </div>
