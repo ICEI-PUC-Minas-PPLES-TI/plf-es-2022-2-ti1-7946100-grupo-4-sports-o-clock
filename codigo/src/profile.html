@@ -7,7 +7,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="./styles/profile.css">
   <link rel="shortcut icon" href="./images/Logo.ico" type="image/x-icon">
-  <script src="./js/profile.js"></script>
   <title>Sports O'Clock</title>
 </head>
 
@@ -17,9 +16,9 @@
       <a href="index.html"><img src="./images/left-arrow.png" alt="voltar" id="back"></a>
       <h2 id="text-identity">Seus dados</h2>
       <ul>
-        <li><a href="profile.html" onclick="pageData()">Seus dados</a></li>
-        <li><a href="favorites.html" onclick="pageFavorites()">Favoritos</a></li>
-        <li><a href="senha.html" onclick="pageChangePassword()">Alterar senha</a></li>
+        <li><a href="profile.html">Seus dados</a></li>
+        <li><a href="favorites.html">Favoritos</a></li>
+        <li><a href="senha.html">Alterar senha</a></li>
       </ul>
     </div>
     <hr id="div-top">
@@ -36,6 +35,21 @@
       <h4>Sports O'Clock 2022 • All rights reserved</h4>
     </footer>
   </div>
+  <script>
+    let content;
+    const userLogged = JSON.parse(localStorage.getItem('userLogged'));
+
+    if (userLogged == null) {
+      window.location.href = 'login.html';
+    }
+
+    content = `
+    <div class="item-favorite">
+        <h4>${userLogged.user}</h4>
+    </div>
+    `
+    document.querySelector(".usuario").innerHTML = content;
+  </script>
 </body>
 
 </html>

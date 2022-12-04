@@ -7,7 +7,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="./styles/profile.css">
   <link rel="shortcut icon" href="./images/Logo.ico" type="image/x-icon">
-  <script src="./js/profile.js"></script>
   <title>Sports O'Clock</title>
 </head>
 
@@ -17,20 +16,23 @@
       <a href="index.html"><img src="./images/left-arrow.png" alt="voltar" id="back"></a>
       <h2 id="text-identity">Alterar senha</h2>
       <ul>
-        <li><a href="profile.html" onclick="pageData()">Seus dados</a></li>
-        <li><a href="favorites.html" onclick="pageFavorites()">Favoritos</a></li>
-        <li><a href="senha.html" onclick="pageChangePassword()">Alterar senha</a></li>
+        <li><a href="profile.html">Seus dados</a></li>
+        <li><a href="favorites.html">Favoritos</a></li>
+        <li><a href="senha.html">Alterar senha</a></li>
       </ul>
     </div>
     <hr id="div-top">
     <div class="box-form-pass">
       <div class="newpass-box">
+        <span>* A senha deve conter no mínimo 8 caracteres.</span>
+        <span>* As senhas não coincidem.</span>
         <h3>Nova senha</h3>
-        <input type="password" name="newpass" id="newpass" placeholder="Digite sua nova senha">
+        <input type="password" name="newpass" id="newpass" placeholder="Digite sua nova senha" oninput="verifyPass()">
       </div>
       <div class="repeat-newpass-box">
         <h3>Repita sua nova senha</h3>
-        <input type="password" name="rnewpass" id="rnewpass" placeholder="Repita sua nova senha">
+        <input type="password" name="rnewpass" id="rnewpass" placeholder="Repita sua nova senha"
+          oninput="verifyRPass()">
       </div>
       <input type="submit" value="Alterar senha" id="changepass" onclick="ChangePassword()">
     </div>
@@ -39,6 +41,64 @@
       <h4>Sports O'Clock 2022 • All rights reserved</h4>
     </footer>
   </div>
+  <script>
+    const userLogged = JSON.parse(localStorage.getItem('userLogged'));
+    const span = document.querySelectorAll('span');
+    let autorizePass = false;
+    let autorizeRPass = false;
+
+    if (userLogged == null) {
+      window.location.href = 'login.html';
+    }
+
+    function verifyPass() {
+
+      const newpass = document.getElementById('newpass');
+      const rnewpass = document.getElementById('rnewpass');
+
+      if (newpass.value.length < 8) {
+        newpass.style.border = '1px solid #FF0000'
+        span[0].style.display = 'block'
+        autorizePass = false;
+      } else {
+        newpass.style.border = ''
+        span[0].style.display = 'none'
+        autorizePass = true
+      }
+    }
+
+    function verifyRPass() {
+      const rnewpass = document.getElementById('rnewpass');
+
+      if (rnewpass.value != newpass.value) {
+        rnewpass.style.border = '1px solid #FF0000'
+        span[1].style.display = 'block'
+        autorizeRPass = false;
+      } else {
+        rnewpass.style.border = ''
+        span[1].style.display = 'none'
+        autorizeRPass = true;
+      }
+    }
+
+    function ChangePassword() {
+      if (!autorizePass || !autorizeRPass) return;
+      const newpass = document.getElementById('newpass');
+
+      const items = {
+        user: userLogged.user,
+        password: newpass.value,
+        favorite: userLogged.favorite
+      }
+
+      localStorage.setItem('userLogged', JSON.stringify(items));
+      alert("Sua senha foi alterada com sucesso!");
+      localStorage.removeItem('token');
+      localStorage.removeItem("userLogged");
+      window.location.href = 'login.html';
+    }
+
+  </script>
 </body>
 
 </html>
