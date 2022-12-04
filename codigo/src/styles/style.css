@@ -74,11 +74,19 @@ main{
     color: white;
 }
 
+#hello {
+    display: inline;
+}
+
 .loggedUser button {
     border: none;
     padding: 5px;
     width: 80px;
     border-radius: 5px;
+}
+
+#nameLogged {
+    color: rgb(19, 155, 19);
 }
 
 #carouselExampleCaptions{

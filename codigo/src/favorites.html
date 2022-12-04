@@ -7,8 +7,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="./styles/profile.css">
   <link rel="shortcut icon" href="./images/Logo.ico" type="image/x-icon">
-  <script src="./js/profile.js"></script>
   <title>Sports O'Clock</title>
+  <script src="./js/profile.js"></script>
 </head>
 
 <body>
@@ -17,14 +17,17 @@
       <a href="index.html"><img src="./images/left-arrow.png" alt="voltar" id="back"></a>
       <h2 id="text-identity">Favoritos</h2>
       <ul>
-        <li><a href="profile.html">Seus dados</a></li>
-        <li><a href="favorites.html">Favoritos</a></li>
-        <li><a href="senha.html">Alterar senha</a></li>
+        <li><a href="profile.html" onclick="pageData()">Seus dados</a></li>
+        <li><a href="favorites.html" onclick="pageFavorites()">Favoritos</a></li>
+        <li><a href="senha.html" onclick="pageChangePassword()">Alterar senha</a></li>
       </ul>
     </div>
     <hr id="div-top">
     <div class="div-main-text">
       <h3>Seus Favoritos</h3>
+      <div class="getFavorites">
+
+      </div>
     </div>
     <footer>
       <hr id="div-bottom">

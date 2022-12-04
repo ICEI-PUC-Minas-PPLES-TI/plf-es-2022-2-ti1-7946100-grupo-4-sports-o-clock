@@ -79,6 +79,24 @@ footer {
     text-align: center;
 }
 
+.getFavorites {
+    display: flex;
+    justify-content: center;
+}
+
+.item-favorite {
+    background-color: #282a36;
+    border-radius: 30px;
+    font-size: small;
+    color: white;
+    width: 30%;
+}
+
+.usuario {
+    display: flex;
+    justify-content: center;
+}
+
 #newpass {
     font-size: 15px;
     font-family: 'Poppins', sans-serif;
@@ -136,6 +154,6 @@ footer {
 }
 
 #text-identity {
-  margin-left: -10%;
-  color: green;
+    margin-left: -10%;
+    color: green;
 }

@@ -17,9 +17,10 @@ function login() {
         `
         document.getElementById('teste').innerHTML = loggd;
     } else {
+        const userLogged = JSON.parse(localStorage.getItem("userLogged"));
         loggd = `
         <div class="loggedUser">
-            <a href="profile.html"><p>Meu perfil</p></a>
+            <a href="profile.html"><p id="hello">Olá, </p><p id="nameLogged">${userLogged.user}</p></a>
             <button type="button" onclick="sair()">Sair</button>
         </div>
         `
@@ -35,5 +36,6 @@ async function LoginUser() {
 
 async function sair() {
     localStorage.removeItem('token');
+    localStorage.removeItem("userLogged");
     window.location.href = 'login.html';
 }

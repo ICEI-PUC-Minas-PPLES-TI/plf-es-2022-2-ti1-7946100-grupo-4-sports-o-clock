@@ -69,13 +69,25 @@ function login() {
     const user = document.getElementById('username');
     const pass = document.getElementById('password');
 
+    let userLogged = {
+        user: '',
+        password: '',
+        favorite: ''
+    }
+
     users.forEach(u => {
         if (u.user == user.value && u.password == pass.value) {
+            userLogged = {
+                user: u.user,
+                password: u.password,
+                favorite: u.favorite
+            }
             document.querySelector('.errorlogin').style.display = 'none'
             let mathRandom = Math.random().toString(16).substr(2)
             let token = mathRandom + mathRandom;
             window.location.href = `index.html?${token}`
             localStorage.setItem('token', token);
+            localStorage.setItem('userLogged', JSON.stringify(userLogged))
         } else {
             document.querySelector('.errorlogin').style.display = 'block'
         }
