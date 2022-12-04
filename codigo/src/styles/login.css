@@ -1,177 +1,70 @@
-*{
-    margin: 0px;
-    padding: 0px;
-    font-family: sans-serif;
-    color: #fff;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body {
+    background-color: #282a36;
+    font-family: 'Poppins', sans-serif;
 }
 
-body{
-    background-color: #F0F2F5;
-    height: 100vh;
+.container-main {
+    position: absolute;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 10px;
+    padding: 45px;
+    background-color: white;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.content-main {
+    text-align: left;
+    margin-top: -20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+input {
+    padding: 10px;
+    outline: none;
+    font-size: 20px;
+    border: rgb(11, 78, 202) solid 1px;
+    border-radius: 10px;
+}
+
+.response-login {
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+}
+
+.response-register {
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+}
+
+button {
+    height: 50px;
+    border: none;
+    background-color: #198754;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+
+a > button {
     width: 100%;
 }
 
-header{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-
-    padding: 0px 16px;
-
-    height: 15vh;
-
-    background-color: #8257E5;
-}
-
-footer{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-
-    padding: 0px 16px;
-
-    height: 15vh;
-
-    background-color: #8257E5;
-}
-
-#conta{
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-}
-
-strong{
-    color: black;
-}
-
-#container-info{
-    display: flex;
-    align-items: center;
-
-    padding: 48px;
-
-    margin: 88px 0px;
-}
-
-#container-text{
-    background-color: white;
-    padding: 16px;
-    border-radius: 10px;
-    height: 240px;
-}
-
-#left-info{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-
-.text{
-    color: #999999;
-}
-.botao{
-    background-color: #04D361;
-    border-radius: 10px;
-    border-style: none;
-
-    font-size: 16px;
-
-    height: 50px;
-    width: 185px;
-}.botao:hover{
-    transition: 0.3s;
-    background-color: #12fb7b;
-}
-
-#right-bottom{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-
-    padding: 16px 0px;
-}
-
-#right-top{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-
-    padding: 16px 0px;
-}
-
-#categoria{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-    background-color: #B59BF0;
-    border-radius: 10px;
-    border-style: none;
-
-    font-size: 16px;
-    color: #8257E5;
-
-    height: 50px;
-    width: 185px;
-}
-
-#container-info{
-    display: flex;
-    justify-content: center;
-    margin-bottom: 180px;
-}
-
-.todoItem{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    
-    height: 32px;
-    width: 480px;
-
-    background-color: #fff;
-    border-radius: 10px;
-    padding: 15px;
-
-    margin: 10px 0 10px 0;
-}.todoItem > div{
-    color: black;
-}
-
-.top{
-    padding: 0 5px 5px 5px;
-    display: flex;
-    justify-content: space-between;
-}.top > input{
-    color: black;
-    border: none;
-    height: 25px;
-    width: 300px;
-}.top > button{
-    height: 25px;
-    width: 80px;
-    background-color: #12fb7b;
-
-    border: none;
-    border-radius: 6px;
-}.top > button:hover{
-    background-color: #04D361;
-
-}
-
-.close-button{
-    border: none;
-    border-radius: 10%;
-
-    height: 24px;
-    width:  24px;
-
-    color: black;
-    padding: 3px;    
-}.close-button:hover{
-    background-color: #8257E5;
-    color: white;
-
-    transition: 0.3s;
+button:hover {
+    background-color: #157347;
+    cursor: pointer;
 }

@@ -1,40 +1,41 @@
+function login() {
+    var usuario = document.getElementById("username");
+    var senha = document.getElementById("password");
 
-let db = [
-    {'task' : 'Teste'},
-]
-
-const criarItem = (title) => {
-
-
-    var input = document.querySelector("#newItem");
-    var title = input.value;
-    const item = document.createElement('div');
-    item.classList.add('todoItem');
-    item.innerHTML = ` 
-    <div>${title}</div>
-    <input class="close-button" type="button" value="X" onClick="removerItem()"></input>`
-
-    document.querySelector('#todoList').appendChild(item);
+    if (usuario.value == "admin" && senha.value == "admin") {
+        window.location.href = "cadastro.html"
+    }
 }
 
-const updateScreen = () =>{
-    db.forEach( item => criarItem(item.task))
+async function register() {
+    var usuario = document.getElementById("username");
+    var senha = document.getElementById("password");
+    var rep_pass = document.getElementById("rep_password");
+
+    if (!usuario.value || !senha.value || !rep_pass.value) {
+        return alert("Preencha todos os campos!");
+    }
+
+    if (senha.value != rep_pass.value) {
+        return alert("As senhas não coincidem")
+    }
+
+    var data = JSON.parse(localStorage.getItem("data"));
+
+    if (data == null) {
+        localStorage.setItem("data", "[]");
+        data = [];
+    }
+
+    var registro = {
+        username: usuario.value,
+        password: senha.value
+    }
+
+    data.push(registro);
+
+    localStorage.setItem("data", JSON.stringify(data));
+
+    console.log(localStorage.data)
+
 }
-
-const removerItem = () => {
-    var node = document.querySelector('.todoItem')
-    node.parentNode.removeChild(node);
-}
-
-
-// const limparTarefas = () => {
-//     const todoList = document.querySelector('#todoList');
-
-//     while( todoList.firstChild){
-//         todoList.removeChild(todoList.lastChild)
-//     }
-// }
-
-updateScreen();
-
-

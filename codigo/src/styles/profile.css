@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #282a36;
+}
+
+
+ul {
+    display: flex;
+    justify-content: right;
+}
+
+li {
+    padding: 20px;
+    list-style: none;
+    font-size: large;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+
+}
+
+li a:hover {
+    color: #008000
+}
+
+footer {
+    padding-top: 100px;
+    padding-bottom: 5px;
+    text-align: center;
+}
+
+.nav {
+    padding-left: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.container {
+    width: 70%;
+    height: 80%;
+    position: relative;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.box {
+    display: flex;
+    flex-direction: row;
+}
+
+.box-form {
+    padding: 10px;
+    text-align: center;
+}
+
+.box-form-pass {
+    text-align: center;
+}
+
+.newpass-box {
+    padding-top: 15px;
+}
+
+.repeat-newpass-box {
+    padding-bottom: 30px;
+}
+
+.div-main-text {
+    text-align: center;
+}
+
+#newpass {
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    border: 0 none;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    border-color: white;
+    width: 40%;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#newpass:focus {
+    border: 0 none;
+    outline: 0;
+}
+
+#rnewpass {
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    border: 0 none;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    border-color: white;
+    width: 40%;
+    height: 30px;
+    border-radius: 5px;
+}
+
+#rnewpass:focus {
+    border: 0 none;
+    outline: 0;
+}
+
+#div-bottom {
+    width: 90%;
+}
+
+#changepass {
+    color: white;
+    font-size: large;
+    border: none;
+    border-radius: 5px;
+    background-color: #008000;
+    width: 150px;
+    height: 40px;
+}
+
+#changepass:hover {
+    background-color: rgb(63, 165, 22);
+    cursor: pointer;
+}
+
+#back {
+    width: 20px;
+    display: block;
+}
+
+#text-identity {
+  margin-left: -10%;
+  color: green;
+}

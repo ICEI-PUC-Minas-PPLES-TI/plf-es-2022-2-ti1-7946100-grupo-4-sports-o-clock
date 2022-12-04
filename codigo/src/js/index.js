@@ -13,3 +13,7 @@ function login() {
     alert('Faça login para obter uma página inicial personalizada de acordo com seu time de coração!');
 }
 login();
+
+async function LoginUser() {
+    window.location.href = "login.html"
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./styles/profile.css">
+  <script src="./js/profile.js"></script>
+  <title>Sports O'Clock</title>
+</head>
+
+<body>
+  <div class="container">
+    <div class="nav">
+      <a href="#"><img src="./images/left-arrow.png" alt="voltar" id="back"></a>
+      <h2 id="text-identity">Alterar senha</h2>
+      <ul>
+        <li><a href="profile.html">Seus dados</a></li>
+        <li><a href="favorites.html">Favoritos</a></li>
+        <li><a href="senha.html">Alterar senha</a></li>
+      </ul>
+    </div>
+    <hr id="div-top">
+    <div class="box-form-pass">
+      <div class="newpass-box">
+        <h3>Nova senha</h3>
+        <input type="password" name="newpass" id="newpass" placeholder="Digite sua nova senha">
+      </div>
+      <div class="repeat-newpass-box">
+        <h3>Repita sua nova senha</h3>
+        <input type="password" name="rnewpass" id="rnewpass" placeholder="Repita sua nova senha">
+      </div>
+      <input type="submit" value="Alterar senha" id="changepass" onclick="ChangePassword()">
+    </div>
+    <footer>
+      <hr id="div-bottom">
+      <h4>Sports O'Clock 2022 • All rights reserved</h4>
+    </footer>
+  </div>
+</body>
+
+</html>
