@@ -50,6 +50,11 @@ body {
     padding-left: 10px;
 }
 
+.result a {
+    color: white;
+    text-decoration: none;
+}
+
 .backtomain {
     width: 100%;
     box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
@@ -71,4 +76,5 @@ body {
 
 #back:hover {
     cursor: pointer;
+    background-color: rgb(207, 207, 207);
 }
