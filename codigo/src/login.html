@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="./style.css" />
+    <title>PartiCall</title>
+
+</head>
+
+<body>
+
+    <header>
+        <svg width="80" height="80" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <g clip-path="url(#clip0_100_1225)">
+                <rect width="100" height="100" rx="50" fill="#33CC95" />
+                <path
+                    d="M50 33.3335C56.9036 33.3335 62.5 27.7371 62.5 20.8335C62.5 13.9299 56.9036 8.3335 50 8.3335C43.0964 8.3335 37.5 13.9299 37.5 20.8335C37.5 27.7371 43.0964 33.3335 50 33.3335Z"
+                    stroke="#6933FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                <path d="M50 91.6668V33.3335" stroke="#6933FF" stroke-width="2" stroke-linecap="round"
+                    stroke-linejoin="round" />
+                <path
+                    d="M20.8335 50H8.3335C8.3335 61.0507 12.7234 71.6488 20.5374 79.4628C28.3514 87.2768 38.9495 91.6667 50.0002 91.6667C61.0508 91.6667 71.6489 87.2768 79.4629 79.4628C87.277 71.6488 91.6668 61.0507 91.6668 50H79.1668"
+                    stroke="#6933FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+            </g>
+            <defs>
+                <clipPath id="clip0_100_1225">
+                    <rect width="100" height="100" rx="50" fill="white" />
+                </clipPath>
+            </defs>
+        </svg>
+
+
+        <div id="conta">
+            <a> Conta </a>
+            <a id="">
+                <svg width="35" height="37" viewBox="0 0 35 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path
+                        d="M29.1668 32.375V29.2917C29.1668 27.6562 28.5522 26.0877 27.4583 24.9312C26.3643 23.7747 24.8806 23.125 23.3335 23.125H11.6668C10.1197 23.125 8.636 23.7747 7.54204 24.9312C6.44808 26.0877 5.8335 27.6562 5.8335 29.2917V32.375"
+                        stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                    <path
+                        d="M17.4998 16.9583C20.7215 16.9583 23.3332 14.1974 23.3332 10.7917C23.3332 7.38591 20.7215 4.625 17.4998 4.625C14.2782 4.625 11.6665 7.38591 11.6665 10.7917C11.6665 14.1974 14.2782 16.9583 17.4998 16.9583Z"
+                        stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                </svg>
+            </a>
+        </div>
+    </header>
+
+    <div id="container-info">
+        <div id="left-info">
+            <strong id="name">
+
+            </strong>
+            <svg width="250" height="250" viewBox="0 0 450 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path
+                    d="M375 393.75V356.25C375 336.359 367.098 317.282 353.033 303.217C338.968 289.152 319.891 281.25 300 281.25H150C130.109 281.25 111.032 289.152 96.967 303.217C82.9018 317.282 75 336.359 75 356.25V393.75"
+                    stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                <path
+                    d="M225 206.25C266.421 206.25 300 172.671 300 131.25C300 89.8286 266.421 56.25 225 56.25C183.579 56.25 150 89.8286 150 131.25C150 172.671 183.579 206.25 225 206.25Z"
+                    stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+        </div>
+
+
+        <div id="todoList">
+            <div class="top">
+                <input type="text" id="newItem">
+                <button type="button" onclick="criarItem()">Criar Tarefa</button>
+            </div>
+
+        </div>
+    
+    </div>
+
+    <footer>
+        <svg width="80" height="80" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <g clip-path="url(#clip0_100_1225)">
+                <rect width="100" height="100" rx="50" fill="#33CC95" />
+                <path
+                    d="M50 33.3335C56.9036 33.3335 62.5 27.7371 62.5 20.8335C62.5 13.9299 56.9036 8.3335 50 8.3335C43.0964 8.3335 37.5 13.9299 37.5 20.8335C37.5 27.7371 43.0964 33.3335 50 33.3335Z"
+                    stroke="#6933FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                <path d="M50 91.6668V33.3335" stroke="#6933FF" stroke-width="2" stroke-linecap="round"
+                    stroke-linejoin="round" />
+                <path
+                    d="M20.8335 50H8.3335C8.3335 61.0507 12.7234 71.6488 20.5374 79.4628C28.3514 87.2768 38.9495 91.6667 50.0002 91.6667C61.0508 91.6667 71.6489 87.2768 79.4629 79.4628C87.277 71.6488 91.6668 61.0507 91.6668 50H79.1668"
+                    stroke="#6933FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+            </g>
+            <defs>
+                <clipPath id="clip0_100_1225">
+                    <rect width="100" height="100" rx="50" fill="white" />
+                </clipPath>
+            </defs>
+        </svg>
+
+        <nav>
+            <a> Contact Us </a>
+            <a> About </a>
+        </nav>
+    </footer>
+    <script src="./script.js"></script>
+</body>
+
+</html>
