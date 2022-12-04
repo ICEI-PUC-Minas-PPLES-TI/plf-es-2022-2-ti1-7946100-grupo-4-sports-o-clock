@@ -12,13 +12,18 @@ window.onload = () => {
 function login() {
     let loggd;
     if (localStorage.getItem('token') == null) {
-        alert('Faça login para obter uma página inicial personalizada de acordo com seu time de coração!');
-        loggd += `
+        loggd = `
         <button type="button" class="btn btn-light login_btn" onclick="LoginUser()">Login</button>
         `
         document.getElementById('teste').innerHTML = loggd;
     } else {
-
+        loggd = `
+        <div class="loggedUser">
+            <a href="profile.html"><p>Meu perfil</p></a>
+            <button type="button" onclick="sair()">Sair</button>
+        </div>
+        `
+        document.getElementById('teste').innerHTML = loggd;
     }
 }
 
@@ -26,4 +31,9 @@ login();
 
 async function LoginUser() {
     window.location.href = "login.html"
+}
+
+async function sair() {
+    localStorage.removeItem('token');
+    window.location.href = 'login.html';
 }
