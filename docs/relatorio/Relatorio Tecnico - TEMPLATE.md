@@ -4,12 +4,8 @@
 
 ## Participantes
 
-- Caio Victor Kodato Teixeira
-- Hudson Martins Nunes
 - Luís Miguel Souza Almeida
-- Marcelo Emboaba de Matos
 - Paulo Victor Pimenta Rubinger
-- Rafael Ferreira Fernandes
 
 # Estrutura do Documento
 
@@ -167,7 +163,7 @@ A interface do nosso projeto foi criada de forma bem objetiva, para que o usuár
 
 # Metodologia
 
-A metodologia adotada foi a metodologia Scrum com tarefas divididas entre os membros, adotando reuniões frequentes para verificar o andamento da sprint, avaliando e se necessário readaptando o processo de execução.
+Foi adotada uma metodologia ágil com tarefas divididas entre os membros, adotando reuniões frequentes para verificar o andamento da sprint, avaliando e se necessário readaptando o processo de execução.
 
 ## KANBAN - PROGRAMAÇÃO DE ESPORTES
 
@@ -177,11 +173,7 @@ A metodologia adotada foi a metodologia Scrum com tarefas divididas entre os mem
 
 |Integrante | Função       |
 |-----------|--------------|
-|Caio       | Scrum Master/ Desenvolvedor|
-|Hudson     | Desenvolvedor|       
 |Luís       | Desenvolvedor|
-|Marcelo    | Desenvolvedor|
-|Rafael     | Desenvolvedor|
 |Paulo      | Desenvolvedor|
 |Professores| Project owner|
 
