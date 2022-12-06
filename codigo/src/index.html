@@ -33,12 +33,12 @@
         <main>
             <div class="container-fluid">
                     <div class="row search_area">
-                        <form method="get" action="https://postman-echo.com/get">
+                        <form>
                             <div class="d-flex" role="search">
                                 <input class="form-control me-2" type="search" id="busca" name="busca" 
                                     placeholder="Pesquise por esporte ou campeonato" aria-label="Search">
                                     
-                                <button id="btn_submit" type="submit" class="btn btn-success">Pesquisar</button>
+                                <button id="btn_submit" type="button" class="btn btn-success" onclick="goToSearch()">Pesquisar</button>
                             </div>
                         </form>
                         <p id="instrucoes"></p>
