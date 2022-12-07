@@ -3,7 +3,6 @@ Search()
 
 async function Search() {
     let time;
-    let found;
     const urlParams = new URLSearchParams(location.search)
     let Id = urlParams.get('search');
 
@@ -47,12 +46,11 @@ async function Search() {
 
         content += `
     <div class="result">
-            <h3><img src="${escudoMandante}"
+            <a href="detalhes.html?id=${newArray[0][i].partida_id}"><h3><img src="${escudoMandante}"
                     alt="My Happy SVG" width="20px" /> ${newArray[0][i].time_mandante.nome_popular} x
                 <img src="${escudoVisitante}"
                     alt="My Happy SVG" width="20px" /> ${newArray[0][i].time_visitante.nome_popular}
-            </h3>
-        <p>${newArray[0][i].data_realizacao} - ${newArray[0][i].hora_realizacao} - ${newArray[0][i].placar} - ${newArray[0][i].status}</p>
+            </h3></a>
     </div>
         `
 

@@ -6,6 +6,15 @@ body {
     color: white;
 }
 
+.detalhes {
+    text-align: center;
+    padding-bottom: 20px;
+}
+.detalhes-partida {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
 .text-result {
     text-align: center;
     font-size: x-large;

@@ -3,10 +3,11 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 header{
-    background-color: black;
+    background-color: #282a36;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
 }
 body{
-    background-color: #121212;
+    background-color: #282a36;
 }
 .logo{
     padding: 0;
