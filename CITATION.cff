@@ -1,7 +1,11 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: LOCKEY
+title: Programação de esportes
 authors:
+  - family-names: Souza Almeida
+    given-names: Luís Miguel
+  - family-names: Pimenta Rubinger
+    given-names: Paulo Victor
   - name-suffix: Professor
     affiliation: PUC Minas
   - family-names: Lima Reis
@@ -16,8 +20,8 @@ authors:
     given-names: Simone 
 keywords:
   - Educacional
-  - Segurança na Web
-repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/tiaw-template-2022-es
+  - Esportes
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti1-plf-es-2022-2-ti1-grupo-4
 license: CC-BY-4.0
 version: 1.0.0
 date-released: 2021-12-22
