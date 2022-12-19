@@ -1,6 +1,6 @@
 cff-version: 1.0.1
 message: Please cite this software using these metadata.
-title: Programação de esportes
+title: Sports o'Clock
 authors:
   - family-names: Souza Almeida
     given-names: Luís Miguel
@@ -21,7 +21,7 @@ authors:
 keywords:
   - Educacional
   - Esportes
-repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti1-plf-es-2022-2-ti1-grupo-4
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-2-ti1-7946100-grupo-4-sports-o-clock
 license: CC-BY-4.0
 version: 1.0.0
-date-released: 2021-12-22
+date-released: 2022-12-14
