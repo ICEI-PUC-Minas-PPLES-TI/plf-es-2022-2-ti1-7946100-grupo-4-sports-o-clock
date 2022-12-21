@@ -1,8 +1,18 @@
-# Documentação do Projeto
+# Sports o'clock
 
-A documentação do projeto é composta pelos seguintes itens: 
- - [Processo de Design Thinking](concepcao/Design%20Thinking.pdf)
- - [Relatório Técnico](relatorio/Relatorio%20Tecnico%20-%20TEMPLATE.md)
- - [Apresentação do Projeto](apresentacao/apresentacao%20-%20TEMPLATE.pptx)
- - [Vídeo de Demonstração](https://youtube.com)
+O objetivo do projeto é desenvolver uma aplicação web para ajudar apreciadores de esportes em geral a conseguirem assistir seus esportes favoritos.
 
+## Alunos integrantes da equipe
+
+* Luís Miguel Souza Almeida
+* Paulo Victor Pimenta Rubinger
+
+## Professores responsáveis
+
+* Felipe Augusto Lima dos Reis;
+* Gabriel Barbosa da Fonseca;
+* Simone Alves Nogueira.
+
+## Instruções de utilização
+
+Para executar a aplicação, acesse nosso website usando seu navegador de preferência.
